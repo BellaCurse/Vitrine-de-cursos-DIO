@@ -1,0 +1,16 @@
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.csproj.AssemblyReference.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\ref\Dio.Vitrine.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\bin\Debug\net5.0\Dio.Vitrine.exe
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\bin\Debug\net5.0\Dio.Vitrine.deps.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\bin\Debug\net5.0\Dio.Vitrine.runtimeconfig.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\bin\Debug\net5.0\Dio.Vitrine.runtimeconfig.dev.json
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\bin\Debug\net5.0\Dio.Vitrine.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\bin\Debug\net5.0\ref\Dio.Vitrine.dll
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\bin\Debug\net5.0\Dio.Vitrine.pdb
+C:\Users\isabe\OneDrive\Área de Trabalho\Cadastro-de-Series-master\obj\Debug\net5.0\Dio.Vitrine.genruntimeconfig.cache
